@@ -75,10 +75,10 @@ export default function AboutPageCTA() {
             </Link>
             
             <Link
-              href="/#projects"
+              href="/usluge"
               className="bg-white/10 backdrop-blur-md hover:bg-white/20 text-white font-bold text-lg px-10 py-5 rounded-xl border-2 border-white/30 hover:border-white/50 transition-all duration-300 transform hover:scale-105 inline-flex items-center justify-center space-x-2"
             >
-              <span>Pogledajte projekte</span>
+              <span>Pogledajte usluge</span>
             </Link>
           </div>
         </div>

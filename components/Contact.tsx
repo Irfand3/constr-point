@@ -176,7 +176,7 @@ export default function Contact() {
                     value={formData.phone}
                     onChange={handleChange}
                     className="w-full px-4 py-3 border-2 border-gray-300 rounded-lg focus:border-accent-500 focus:outline-none transition-colors"
-                    placeholder="+387 33 123 456"
+                    placeholder="035 258 220"
                   />
                 </div>
 

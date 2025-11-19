@@ -103,7 +103,7 @@ export default function ContactPageForm() {
                     value={formData.phone}
                     onChange={handleChange}
                     className="w-full px-5 py-4 border-2 border-gray-300 rounded-xl focus:border-accent-500 focus:ring-2 focus:ring-accent-200 focus:outline-none transition-all"
-                    placeholder="+387 33 123 456"
+                    placeholder="035 258 220"
                   />
                 </div>
 

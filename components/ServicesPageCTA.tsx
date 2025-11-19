@@ -90,7 +90,7 @@ export default function ServicesPageCTA() {
             >
               <FaPhone className="w-8 h-8 text-accent-400 mx-auto mb-3 group-hover:scale-110 transition-transform" />
               <div className="font-bold text-white mb-1">Pozovite nas</div>
-              <div className="text-gray-300 text-sm">+387 33 123 456</div>
+              <div className="text-gray-300 text-sm">035 258 220</div>
             </a>
 
             <a

@@ -43,7 +43,7 @@ export default function Hero() {
               {hero.ctaPrimary}
             </button>
             <button
-              onClick={() => handleScroll('#projects')}
+              onClick={() => handleScroll('#services')}
               className="btn-secondary bg-white/10 backdrop-blur-sm text-white border-white hover:bg-white/20"
             >
               {hero.ctaSecondary}

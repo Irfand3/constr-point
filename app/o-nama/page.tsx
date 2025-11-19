@@ -4,7 +4,7 @@ import Footer from '@/components/Footer';
 import AboutPageHero from '@/components/AboutPageHero';
 import AboutPageStory from '@/components/AboutPageStory';
 import AboutPageValues from '@/components/AboutPageValues';
-import AboutPageTeam from '@/components/AboutPageTeam';
+// import AboutPageTeam from '@/components/AboutPageTeam';
 import AboutPageTimeline from '@/components/AboutPageTimeline';
 import AboutPageCTA from '@/components/AboutPageCTA';
 
@@ -21,7 +21,7 @@ export default function ONamaPage() {
       <AboutPageStory />
       <AboutPageValues />
       <AboutPageTimeline />
-      <AboutPageTeam />
+      {/* <AboutPageTeam /> */}
       <AboutPageCTA />
       <Footer />
     </main>

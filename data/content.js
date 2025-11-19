@@ -10,7 +10,7 @@ export const siteMetadata = {
 export const navigation = [
   { name: 'Početna', href: '#home' },
   { name: 'Usluge', href: '#services' },
-  { name: 'Projekti', href: '#projects' },
+  // { name: 'Projekti', href: '#projects' },
   { name: 'O nama', href: '#about' },
   { name: 'Kontakt', href: '#contact' },
 ];
@@ -19,7 +19,7 @@ export const navigation = [
 export const navigationRoutes = [
   { name: 'Početna', href: '/' },
   { name: 'Usluge', href: '/usluge' },
-  { name: 'Projekti', href: '/projekti' },
+  // { name: 'Projekti', href: '/projekti' },
   { name: 'O nama', href: '/o-nama' },
   { name: 'Kontakt', href: '/kontakt' },
 ];
@@ -28,7 +28,7 @@ export const hero = {
   title: 'Izvođenje svih vrsta građevinskih radova',
   subtitle: 'Kompletna izgradnja objekata od temelja do ključa u ruke — vaš pouzdani izvođač za stambene, komercijalne i industrijske projekte.',
   ctaPrimary: 'Zatraži ponudu',
-  ctaSecondary: 'Pogledaj naše projekte',
+  ctaSecondary: 'Pogledaj naše usluge',
   backgroundImage: 'https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=2070',
 };
 
@@ -226,9 +226,9 @@ export const contact = {
   title: 'Kontaktirajte nas',
   subtitle: 'Tu smo da odgovorimo na sva vaša pitanja',
   address: 'Turalibegova 25A, 75000 Tuzla, Bosna i Hercegovina',
-  phone: '+387 33 123 456',
+  phone: '035 258 220',
   email: 'info@constructorpoint.ba',
-  workingHours: 'Ponedjeljak - Petak: 08:00 - 17:00',
+  workingHours: 'Ponedjeljak - Petak: 7:30 - 16:00',
 };
 
 export const footer = {
@@ -240,7 +240,7 @@ export const footer = {
   quickLinks: [
     { name: 'Početna', href: '#home' },
     { name: 'Usluge', href: '#services' },
-    { name: 'Projekti', href: '#projects' },
+    // { name: 'Projekti', href: '#projects' },
     { name: 'O nama', href: '#about' },
     { name: 'Kontakt', href: '#contact' },
   ],
