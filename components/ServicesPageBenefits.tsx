@@ -32,33 +32,33 @@ export default function ServicesPageBenefits() {
   const benefits = [
     {
       icon: FaClock,
-      title: 'Ušteda vremena',
-      description: 'Optimizacija procesa i efik asna koordinacija smanjuju vrijeme realizacije projekta.',
+      title: 'Poštovanje rokova',
+      description: 'Efikasno izvođenje radova sa vlastitim timom omogućava realizaciju u planiranim rokovima.',
     },
     {
       icon: FaMoneyBillWave,
-      title: 'Kontrola budžeta',
-      description: 'Precizno praćenje troškova i proaktivno upravljanje budžetom sprečava prekoračenja.',
+      title: 'Fiksna cijena',
+      description: 'Precizna procjena troškova i fiksna cijena izvođenja bez skrivenih troškova.',
     },
     {
       icon: FaShieldAlt,
       title: 'Garantovan kvalitet',
-      description: 'Strogi standardi kvalitete i kontinuirana kontrola osiguravaju izvrsne rezultate.',
+      description: 'Kvalitetno izvođenje svih radova sa garancijom na izvedene radove i materijale.',
     },
     {
       icon: FaUserTie,
-      title: 'Stručan tim',
-      description: 'Iskusni profesionalci sa dugogodišnjim iskustvom vode svaki segment projekta.',
+      title: 'Vlastiti tim majstora',
+      description: 'Licencirani majstori i radnici direktno zaposleni za potpunu kontrolu kvaliteta.',
     },
     {
       icon: FaChartLine,
       title: 'Transparentnost',
-      description: 'Redovno izvještavanje i potpuna transparentnost tokom cijelog projekta.',
+      description: 'Redovno izvještavanje o napretku radova i potpuna transparentnost u izvođenju.',
     },
     {
       icon: FaHandshake,
-      title: 'Pouzdanost',
-      description: 'Poštovanje rokova i obaveza je temelj našeg odnosa sa klijentima.',
+      title: 'Pouzdanost izvođača',
+      description: 'Kao izvođač sa vlastitim timom garantujemo kvalitet i pouzdanost.',
     },
   ];
 
@@ -108,7 +108,7 @@ export default function ServicesPageBenefits() {
             </h2>
             
             <p className="text-lg text-gray-700 leading-relaxed mb-8">
-              Naša dugogodišnja ekspertiza i posvećenost svakom projektu donose konkretne prednosti koje osjećaju svi naši klijenti.
+              Kao izvođač sa vlastitim timom stručnjaka i majstora, osiguravamo kvalitet i pouzdanost izvođenja svih vrsta građevinskih radova.
             </p>
 
             {/* Benefits Grid */}

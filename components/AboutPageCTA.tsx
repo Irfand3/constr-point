@@ -55,11 +55,11 @@ export default function AboutPageCTA() {
           <FaRocket className="w-16 h-16 text-accent-400 mx-auto mb-8 animate-bounce" />
           
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold font-heading text-white mb-6 leading-tight">
-            Spremni smo za <span className="text-accent-400">vaš projekat</span>
+            Spremni smo izgraditi <span className="text-accent-400">vaš objekat</span>
           </h2>
           
           <p className="text-xl md:text-2xl text-gray-200 mb-12 leading-relaxed">
-            Kontaktirajte nas danas i saznajte kako možemo pomoći da vaš građevinski projekat bude uspješan
+            Kontaktirajte nas danas za procjenu i ponudu za izvođenje građevinskih radova
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

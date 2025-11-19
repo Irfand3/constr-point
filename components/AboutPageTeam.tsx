@@ -32,28 +32,28 @@ export default function AboutPageTeam() {
     {
       name: 'Prva osoba',
       role: 'Osnivač i direktor',
-      description: 'Diplomirani građevinski inženjer sa bogatim iskustvom u upravljanju velikim infrastrukturnim projektima.',
+      description: 'Diplomirani građevinski inženjer sa bogatim iskustvom u izvođenju i nadzoru građevinskih radova.',
       initials: 'MP',
       color: 'from-blue-500 to-blue-700',
     },
     {
       name: 'Druga osoba',
-      role: 'Tehnička direktorica',
-      description: 'Licencirana arhitekta i projektni menadžer sa specijalizacijom u komercijalnim objektima.',
+      role: 'Tehnički direktor',
+      description: 'Certificirani građevinski tehničar za nadzor radova i kontrolu kvaliteta izvođenja.',
       initials: 'AK',
       color: 'from-purple-500 to-purple-700',
     },
     {
       name: 'Treca osoba',
-      role: 'Rukovodilac projekata',
-      description: 'Certificirani PMI projektni menadžer sa iskustvom u organizaciji i nadzoru složenih projekata.',
+      role: 'Vođa gradilišta',
+      description: 'Iskusni majstor sa licencom za vođenje gradilišta i koordinaciju izvođača na terenu.',
       initials: 'DN',
       color: 'from-accent-500 to-accent-700',
     },
     {
       name: 'Cetvrta osoba',
-      role: 'Rukovoditeljica kvaliteta',
-      description: 'Stručnjak za kontrolu kvaliteta i sigurnosti sa međunarodnim certifikatima.',
+      role: 'Koordinator za kvalitet',
+      description: 'Stručnjak za kontrolu kvaliteta izvedenih radova i sigurnosti na gradilištu.',
       initials: 'MS',
       color: 'from-green-500 to-green-700',
     },
@@ -130,7 +130,7 @@ export default function AboutPageTeam() {
         {/* Team Statement */}
         <div className={`mt-16 max-w-4xl mx-auto text-center ${isVisible ? 'animate-slide-up' : 'opacity-0'}`} style={{ animationDelay: '0.7s' }}>
           <p className="text-xl text-gray-700 leading-relaxed">
-            Naš multidisciplinarni tim kombinuje tehničku stručnost, kreativnost i dugogodišnje iskustvo kako bi osigurao da svaki projekat bude realizovan sa najvišim standardima kvaliteta.
+            Naš tim licenciranih inženjera, tehničara i majstora osigurava kvalitetno izvođenje svih vrsta građevinskih radova uz poštovanje rokova i najviših standarda kvaliteta.
           </p>
         </div>
       </div>

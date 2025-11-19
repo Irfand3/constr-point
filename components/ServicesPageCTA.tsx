@@ -75,11 +75,11 @@ export default function ServicesPageCTA() {
           <FaComments className="w-16 h-16 text-accent-400 mx-auto mb-8" />
           
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold font-heading text-white mb-6 leading-tight">
-            Započnite vaš <span className="text-accent-400">projekat</span> danas
+            Započnite izgradnju <span className="text-accent-400">vašeg objekta</span> danas
           </h2>
           
           <p className="text-xl md:text-2xl text-gray-200 mb-12 leading-relaxed">
-            Kontaktirajte nas za besplatnu konsultaciju i detaljnu ponudu prilagođenu vašim potrebama
+            Kontaktirajte nas za besplatnu procjenu i detaljnu ponudu za izvođenje svih građevinskih radova
           </p>
 
           {/* Contact Options */}
@@ -117,7 +117,7 @@ export default function ServicesPageCTA() {
             href="/kontakt"
             className="group inline-flex items-center space-x-3 bg-gradient-to-r from-accent-500 to-accent-600 hover:from-accent-600 hover:to-accent-700 text-white font-bold text-lg px-12 py-6 rounded-xl shadow-2xl hover:shadow-accent-500/50 transition-all duration-300 transform hover:scale-105"
           >
-            <span>Zatraži besplatnu konsultaciju</span>
+            <span>Zatraži besplatnu procjenu radova</span>
             <svg className="w-6 h-6 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
             </svg>

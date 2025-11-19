@@ -45,7 +45,7 @@ export default function ProjectsPageHero() {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-200 mb-12 leading-relaxed max-w-3xl mx-auto animate-slide-up" style={{ animationDelay: '0.2s' }}>
-            Portfolio uspješno realizovanih stambenih, komercijalnih i industrijskih objekata koji potvrđuju našu stručnost i posvećenost kvalitetu.
+            Portfolio uspješno izgrađenih stambenih, komercijalnih i industrijskih objekata koji potvrđuju kvalitet našeg izvođenja radova.
           </p>
 
           {/* Stats */}

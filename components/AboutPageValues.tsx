@@ -32,37 +32,37 @@ export default function AboutPageValues() {
     {
       icon: FaShieldAlt,
       title: 'Integritet',
-      description: 'Gradimo odnose zasnovane na povjenju, transparentnosti i etičkom poslovanju.',
+      description: 'Gradimo sa povjernjem, transparentno izvodimo radove i etički poslujemo sa svim klijentima.',
       color: 'from-blue-500 to-blue-700',
     },
     {
       icon: FaCheckCircle,
-      title: 'Kvalitet',
-      description: 'Posvećeni smo najvišim standardima kvaliteta u svakom aspektu našeg rada.',
+      title: 'Kvalitet izvedenih radova',
+      description: 'Koristimo kvalitetne materijale i stručno izvodimo sve radove prema najvišim građevinskim standardima.',
       color: 'from-green-500 to-green-700',
     },
     {
       icon: FaLightbulb,
-      title: 'Inovacija',
-      description: 'Kontinuirano unapređujemo procese i koristimo najsavremenije tehnologije.',
+      title: 'Savremene tehnike izvođenja',
+      description: 'Primjenjujemo moderne metode gradnje i najsavremeniju opremu za efikasno izvođenje radova.',
       color: 'from-yellow-500 to-orange-600',
     },
     {
       icon: FaHandshake,
-      title: 'Partnerstvo',
-      description: 'Vaš uspjeh je naš uspjeh - gradimo dugoročne odnose zasnovane na posvećenosti.',
+      title: 'Pouzdanost',
+      description: 'Kao izvođač garantujemo poštovanje rokova i kvalitet svih izvedenih radova.',
       color: 'from-purple-500 to-purple-700',
     },
     {
       icon: FaTrophy,
-      title: 'Izvrsnost',
-      description: 'Težimo ka izvrsnosti u svakom projektu, premašujući očekivanja klijenata.',
+      title: 'Preciznost izvođenja',
+      description: 'Svaki radni zadatak izvodimo sa pažnjom na detalje, prateći projekte i tehničke specifikacije.',
       color: 'from-accent-500 to-accent-700',
     },
     {
       icon: FaHeart,
-      title: 'Odgovornost',
-      description: 'Preuzimamo punu odgovornost za sve aspekte projekta i njegove rezultate.',
+      title: 'Odgovornost izvođača',
+      description: 'Preuzimamo potpunu odgovornost za sve izvedene radove i njihov krajnji rezultat.',
       color: 'from-red-500 to-pink-600',
     },
   ];
@@ -110,7 +110,7 @@ export default function AboutPageValues() {
             Zašto klijenti biraju nas?
           </h3>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto leading-relaxed">
-            Kombinacija tehničke stručnosti, dugogodišnjeg iskustva i pristupa fokusiranog na klijenta čini nas idealnim partnerom za vaš građevinski projekat.
+            Kao izvođač radova sa vlastitim timom stručnjaka i majstora, garantujemo kvalitetno izvođenje, poštovanje rokova i transparentnost tokom cijelog procesa gradnje.
           </p>
         </div>
       </div>

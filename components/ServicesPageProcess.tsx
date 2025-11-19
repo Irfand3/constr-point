@@ -32,32 +32,32 @@ export default function ServicesPageProcess() {
     {
       number: '01',
       icon: FaClipboardList,
-      title: 'Analiza i planiranje',
-      description: 'Detaljno upoznavanje sa projektom, definisanje ciljeva, izrada plana i procjena resursa.',
+      title: 'Procjena i ponuda',
+      description: 'Pregled lokacije, analiza projekta, sastavljanje detaljne ponude za izvođenje radova.',
       duration: '1-2 sedmice',
       color: 'from-primary-600 to-primary-700',
     },
     {
       number: '02',
       icon: FaTools,
-      title: 'Priprema i organizacija',
-      description: 'Formiranje tima, angažovanje izvođača, nabavka materijala i priprema gradilišta.',
+      title: 'Priprema gradilišta',
+      description: 'Priprema objekta, organizacija gradilišta, nabavka materijala i mobilizacija tima.',
       duration: '2-4 sedmice',
       color: 'from-primary-500 to-primary-600',
     },
     {
       number: '03',
       icon: FaChartBar,
-      title: 'Izvođenje i nadzor',
-      description: 'Realizacija radova uz kontinuirani nadzor kvaliteta, kontrolu rokova i budžeta.',
+      title: 'Izvođenje radova',
+      description: 'Realizacija svih vrsta građevinskih radova uz stalni nadzor kvaliteta i poštovanje rokova.',
       duration: 'Tokom cijelog projekta',
       color: 'from-slate-600 to-slate-700',
     },
     {
       number: '04',
       icon: FaCheckCircle,
-      title: 'Završetak i predaja',
-      description: 'Tehnički pregled, priprema dokumentacije, dobijanje upotrebne dozvole i predaja objekta.',
+      title: 'Predaja objekta',
+      description: 'Završni pregled izvedenih radova, tehnička dokumentacija i predaja ključeva klijentu.',
       duration: '2-3 sedmice',
       color: 'from-slate-700 to-slate-800',
     },
@@ -80,7 +80,7 @@ export default function ServicesPageProcess() {
             Kako <span className="text-accent-600">radimo</span>
           </h2>
           <p className={`section-subtitle ${isVisible ? 'animate-slide-up' : 'opacity-0'}`} style={{ animationDelay: '0.2s' }}>
-            Strukturiran pristup koji garantuje uspjeh vašeg projekta
+            Organizovan pristup izvođenju radova od prve kopke do predaje objekta
           </p>
         </div>
 
@@ -129,10 +129,10 @@ export default function ServicesPageProcess() {
         <div className={`mt-16 text-center ${isVisible ? 'animate-slide-up' : 'opacity-0'}`} style={{ animationDelay: '0.7s' }}>
           <div className="inline-block bg-gradient-to-r from-primary-50 to-accent-50 rounded-2xl p-8 border border-primary-100">
             <p className="text-lg text-gray-700 mb-4">
-              <strong className="text-primary-900">Prosječno trajanje projekta:</strong> 6-18 mjeseci, zavisno od veličine i složenosti
+              <strong className="text-primary-900">Prosječno trajanje izvođenja:</strong> 6-18 mjeseci, zavisno od veličine i složenosti objekta
             </p>
             <p className="text-gray-600">
-              Tokom cijelog procesa održavamo redovnu komunikaciju i pružamo transparentne izvještaje o napretku
+              Tokom cijelog procesa izvođenja radova održavamo redovnu komunikaciju i pružamo transparentne izvještaje o napretku
             </p>
           </div>
         </div>

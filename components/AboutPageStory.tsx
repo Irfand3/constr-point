@@ -45,13 +45,13 @@ export default function AboutPageStory() {
             
             <div className="space-y-4 text-gray-700 leading-relaxed text-lg mb-8">
               <p>
-                <strong className="text-primary-900">Constructor point d.o.o.</strong> osnovan je 2025. godine sa jasnom vizijom - postati lider u oblasti upravljanja građevinskim projektima u Bosni i Hercegovini i regionu kroz primjenu najmodernijih tehnologija i pristupa.
+                <strong className="text-primary-900">Constructor point d.o.o.</strong> osnovan je 2025. godine sa jasnom vizijom - biti pouzdan izvođač građevinskih radova koji kombinuje tradiciju kvalitetne gradnje sa modernim pristupom i tehnologijom.
               </p>
               <p>
-                Kao nova kompanija, donosimo svjež pogled na projektni menadžment, kombinirajući najnovija znanja iz oblasti građevinarstva sa inovativnim digitalnim rješenjima i vrhunskim standardima kvaliteta.
+                Kao izvođač, direktno izvođimo sve vrste građevinskih radova - od temelja do krova. Naš vlastiti tim majstora i građevinskih radnika omogućava nam potpunu kontrolu nad kvalitetom izvođenja, rokovima i troškovima.
               </p>
               <p>
-                Naš tim čine visokokvalifikovani građevinski inženjeri, arhitekte, projektni menadžeri i tehnički stručnjaci koji dijele zajedničku strast prema izvrsnosti i posvećenost svakom projektu, spremni da vaše građevinske vizije pretvore u stvarnost.
+                Tim čine certificirani građevinski inženjeri, tehničari za nadzor i iskusni majstori svih zanata potrebnih za kvalitetnu gradnju. Svaki član tima dijeli zajednički cilj - izgraditi trajan i kvalitetan objekat koji će premašiti očekivanja klijenta.
               </p>
             </div>
 

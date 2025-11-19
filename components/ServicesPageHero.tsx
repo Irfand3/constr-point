@@ -5,10 +5,10 @@ import { FaCheckCircle } from 'react-icons/fa';
 
 export default function ServicesPageHero() {
   const highlights = [
-    'Projektno planiranje',
-    'Nadzor građenja',
-    'Upravljanje budžetom',
-    'Kontrola kvaliteta',
+    'Grubi građevinski radovi',
+    'Završni radovi',
+    'Instalacioni radovi',
+    'Ključ u ruke',
   ];
 
   return (
@@ -44,16 +44,16 @@ export default function ServicesPageHero() {
           {/* Badge */}
           <div className="inline-flex items-center space-x-2 bg-accent-500/20 backdrop-blur-md px-6 py-3 rounded-full mb-8 border border-accent-400/30 animate-slide-up">
             <div className="w-2 h-2 bg-accent-400 rounded-full animate-pulse"></div>
-            <span className="text-white font-semibold text-sm">Kompletna paleta usluga</span>
+            <span className="text-white font-semibold text-sm">Svi građevinski radovi na jednom mjestu</span>
           </div>
 
           <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold font-heading text-white mb-6 leading-tight animate-slide-up" style={{ animationDelay: '0.1s' }}>
-            Usluge projektnog <br />
-            <span className="text-accent-400">menadžmenta</span>
+            Izvođenje svih <br />
+            <span className="text-accent-400">građevinskih radova</span>
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-200 mb-10 leading-relaxed max-w-3xl animate-slide-up" style={{ animationDelay: '0.2s' }}>
-            Od planiranja do završetka gradnje - pružamo sveobuhvatnu podršku za uspješnu realizaciju vašeg građevinskog projekta.
+            Od temelja do krova - kvalitetno izvođenje svih vrsta građevinskih i zanatskih radova za vaš objekat.
           </p>
 
           {/* Highlights Grid */}

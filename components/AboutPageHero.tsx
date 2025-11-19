@@ -37,16 +37,16 @@ export default function AboutPageHero() {
           {/* Badge */}
           <div className="inline-flex items-center space-x-2 bg-accent-500/20 backdrop-blur-md px-6 py-3 rounded-full mb-8 border border-accent-400/30 animate-slide-up">
             <FaRocket className="w-4 h-4 text-accent-400" />
-            <span className="text-white font-semibold text-sm">Nova era građevinskog projektnog menadžmenta</span>
+            <span className="text-white font-semibold text-sm">Izvođač građevinskih radova sa modernim pristupom</span>
           </div>
 
           <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold font-heading text-white mb-6 leading-tight animate-slide-up" style={{ animationDelay: '0.1s' }}>
-            Gradimo budućnost, <br />
-            <span className="text-accent-400">projekat po projekat</span>
+            Gradimo kvalitetno, <br />
+            <span className="text-accent-400">objekat po objekat</span>
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-200 mb-12 leading-relaxed max-w-3xl animate-slide-up" style={{ animationDelay: '0.2s' }}>
-            Constructor point je sinonim za kvalitet, pouzdanost i stručnost u upravljanju građevinskim projektima u Tuzli i šire.
+            Constructor point je izvođač građevinskih radova sa fokusom na kvalitet izvođenja, poštovanje rokova i transparentnost u radu.
           </p>
         </div>
 

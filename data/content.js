@@ -1,7 +1,7 @@
 export const siteMetadata = {
-  title: 'Constructor point d.o.o. - Profesionalna organizacija građevinskih projekata',
-  description: 'Pružamo usluge planiranja, organizacije, nadzora i izvođenja građevinskih projekata za stambene, komercijalne i industrijske objekte.',
-  keywords: 'građevina, projektni menadžment, organizacija građenja, nadzor projekata, građevinski projekti',
+  title: 'Constructor point d.o.o. - Izvođenje i organizacija građevinskih radova',
+  description: 'Izvođač građevinskih radova za stambene, komercijalne i industrijske objekte. Kompletan spektar usluga od temelja do krova sa profesionalnim nadzorom.',
+  keywords: 'građevina, izvođenje radova, izvođač, građevinski radovi, organizacija građenja, nadzor projekata, građevinski projekti',
   url: 'https://constructorpoint.ba',
   image: '/og-image.jpg',
 };
@@ -25,8 +25,8 @@ export const navigationRoutes = [
 ];
 
 export const hero = {
-  title: 'Profesionalna organizacija i izvođenje građevinskih projekata',
-  subtitle: 'Od ideje do završetka gradnje — sigurni partner za sve vrste građevinskih projekata.',
+  title: 'Izvođenje svih vrsta građevinskih radova',
+  subtitle: 'Kompletna izgradnja objekata od temelja do ključa u ruke — vaš pouzdani izvođač za stambene, komercijalne i industrijske projekte.',
   ctaPrimary: 'Zatraži ponudu',
   ctaSecondary: 'Pogledaj naše projekte',
   backgroundImage: 'https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=2070',
@@ -34,73 +34,73 @@ export const hero = {
 
 export const services = {
   title: 'Naše usluge',
-  subtitle: 'Pružamo kompletna rješenja za uspješnu realizaciju vašeg građevinskog projekta',
+  subtitle: 'Kao izvođač građevinskih radova, pružamo kompletna rješenja od temelja do završne obrade',
   items: [
     {
       id: 1,
-      title: 'Projektno planiranje',
-      description: 'Detaljno planiranje svih faza projekta sa preciznim vremenskim okvirima i resursima.',
+      title: 'Izvođenje grubih građevinskih radova',
+      description: 'Kompletna izrada temelja, zidova, armiranobetonskih konstrukcija i svih nosećih elemenata objekta.',
       icon: 'FaProjectDiagram',
     },
     {
       id: 2,
-      title: 'Organizacija i nadzor građenja',
-      description: 'Profesionalni nadzor nad gradnjom sa kontinuiranim praćenjem napretka i kvaliteta radova.',
+      title: 'Izvođenje završnih građevinskih radova',
+      description: 'Fasade, krovovi, termoizolacija, stolarija, keramika, podovi i svi završni radovi do useljivog stanja.',
       icon: 'FaHardHat',
     },
     {
       id: 3,
-      title: 'Upravljanje izvođačima i materijalima',
-      description: 'Koordinacija svih izvođača i pravovremena nabavka kvalitetnih građevinskih materijala.',
+      title: 'Instalacioni radovi',
+      description: 'Izvođenje kompletnih elektro, vodovodnih, kanalizacionih, grijnih i klimatizacionih instalacija.',
       icon: 'FaTruckLoading',
     },
     {
       id: 4,
-      title: 'Konsalting i tehnička dokumentacija',
-      description: 'Priprema potrebne tehničke dokumentacije i stručno savjetovanje tokom cijelog projekta.',
+      title: 'Izgradnja "ključ u ruke"',
+      description: 'Kompletna realizacija objekta od projekta do predaje - useljiva nekretnina spremna za upotrebu.',
       icon: 'FaFileContract',
     },
     {
       id: 5,
-      title: 'Vođenje budžeta i rokova',
-      description: 'Striktno praćenje budžeta i rokova sa transparentnim izvještavanjem o napretku.',
+      title: 'Rekonstrukcije i adaptacije',
+      description: 'Preuređenje i renoviranje postojećih objekata uz poštovanje svih građevinskih standarda.',
       icon: 'FaChartLine',
     },
     {
       id: 6,
-      title: 'Kontrola kvaliteta i sigurnosti',
-      description: 'Osiguranje najviših standarda kvalitete i sigurnosti na gradilištu u skladu sa propisima.',
+      title: 'Nadzor nad izvođenjem radova',
+      description: 'Profesionalni tehnički nadzor sa kontrolom kvaliteta i sigurnosti tokom cijelog procesa gradnje.',
       icon: 'FaShieldAlt',
     },
   ],
 };
 
 export const uspSection = {
-  title: 'Zašto odabrati nas',
-  subtitle: 'Gradimo povjerenje kroz kvalitet i posvećenost svakom projektu',
+  title: 'Zašto odabrati nas kao izvođača',
+  subtitle: 'Iskustvo i kvalitet izvođenja radova su naša glavna prednost',
   items: [
     {
       id: 1,
-      title: 'Iskustvo',
-      description: 'Više od decenije uspješno realiziranih projekata u regionu',
+      title: 'Vlastiti tim izvođača',
+      description: 'Licencirani majstori i radnici za sve vrste građevinskih i zanatskih radova',
       icon: 'FaAward',
     },
     {
       id: 2,
-      title: 'Certificirani inženjeri',
-      description: 'Tim licenciranih stručnjaka sa međunarodnim certifikatima',
+      title: 'Certificirani građevinski stručnjaci',
+      description: 'Građevinski inženjeri i tehničari sa potrebnim licencama za izvođenje',
       icon: 'FaCertificate',
     },
     {
       id: 3,
-      title: 'Garantovani rokovi',
-      description: 'Striktno poštovanje dogovorenih rokova bez odgađanja',
+      title: 'Garantovani rokovi izvođenja',
+      description: 'Realni rokovi i striktno poštovanje dinamike izvođenja radova',
       icon: 'FaClock',
     },
     {
       id: 4,
-      title: 'Transparentno vođenje projekata',
-      description: 'Redovno izvještavanje i potpuna transparentnost u radu',
+      title: 'Kvalitet izvedenih radova',
+      description: 'Kontrola kvaliteta u svakoj fazi izvođenja sa garancijom na izvedene radove',
       icon: 'FaHandshake',
     },
   ],
@@ -169,12 +169,12 @@ export const projects = {
 
 export const about = {
   title: 'O nama',
-  subtitle: 'Vaš partner u realizaciji građevinskih projekata',
-  content: `Constructor point d.o.o. je moderna kompanija za organizaciju i upravljanje građevinskim projektima sa sjedištem u Tuzli. Specijalizovani smo za kompletnu realizaciju projekata od početne ideje do završetka gradnje.
+  subtitle: 'Izvođač građevinskih radova sa fokusom na kvalitet i rok izvođenja',
+  content: `Constructor point d.o.o. je građevinska firma specijalizovana za izvođenje svih vrsta građevinskih radova sa sjedištem u Tuzli. Bavimo se kompletnim izvođenjem stambenih, komercijalnih i industrijskih objekata - od grubih građevinskih radova do završne obrade i predaje objekta "ključ u ruke".
 
-Naš tim čine visokokvalifikovani građevinski inženjeri, arhitekte i projektni menadžeri sa bogatim iskustvom u organizaciji stambenih, komercijalnih i industrijskih projekata. Koristimo najsavremenije tehnologije i metode upravljanja projektima kako bismo osigurali da svaki projekat bude završen na vrijeme, u okviru budžeta i sa najvišim standardima kvaliteta.
+Kao izvođač, raspolažemo vlastitim timom licenciranih građevinskih radnika, majstora i stručnog nadzornog osoblja. Naš tim čine certificirani građevinski inženjeri, tehničari i iskusni majstori svih zanata potrebnih za kvalitetnu izgradnju objekta. Direktno izvođenje radova vlastitim timom omogućava nam potpunu kontrolu nad kvalitetom i rokovima izvođenja.
 
-Naša misija je pružiti klijentima potpunu podršku i stručnost tokom cijelog procesa gradnje, omogućavajući im da se fokusiraju na svoje poslovanje dok mi brinemo o svakom detalju projekta.`,
+Naša misija je izgraditi kvalitetne i trajne objekte poštujući sve građevinske standarde i propise, uz striktno pridržavanje dogovorenih rokova i transparentnost tokom cijelog procesa izvođenja radova.`,
   image: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=2076',
   stats: [
     { value: '50+', label: 'Projekata u planu' },
@@ -186,13 +186,13 @@ Naša misija je pružiti klijentima potpunu podršku i stručnost tokom cijelog 
 
 export const testimonials = {
   title: 'Šta kažu naši klijenti',
-  subtitle: 'Povjerenje i zadovoljstvo klijenata su naš najveći uspjeh',
+  subtitle: 'Povjerenje i zadovoljstvo kvalitetom izvedenih radova',
   items: [
     {
       id: 1,
       name: 'Osoba jedan',
       position: 'Direktor, Firma jedan',
-      content: 'Izuzetna profesionalnost i posvećenost projektu. Constructor point je uspješno realizovao naš stambeni kompleks u roku sa najvišim standardima kvaliteta. Toplo preporučujemo!',
+      content: 'Izvođenje radova na našem stambenom kompleksu je bilo besprijekorno. Kvalitet izvedenih radova, poštovanje rokova i profesionalnost tima su na najvišem nivou. Toplo preporučujemo!',
       avatar: 'MP',
       rating: 5,
     },
@@ -200,7 +200,7 @@ export const testimonials = {
       id: 2,
       name: 'Osoba dva',
       position: 'Vlasnik, Firma dva',
-      content: 'Radili smo sa mnogim izvođačima, ali ovakav pristup i transparentnost nismo ranije doživjeli. Svaki detalj je bio pod kontrolom i redovno smo bili informisani o napretku.',
+      content: 'Konačno smo pronašli izvođača koji radi po dogovoru. Radovi su izvođeni kvalitetno, uredno gradilište, a majstori su bili ljubazni i stručni. Svaka preporuka!',
       avatar: 'AK',
       rating: 5,
     },
@@ -208,7 +208,7 @@ export const testimonials = {
       id: 3,
       name: 'Osoba tri',
       position: 'Tehnički direktor, Firma tri',
-      content: 'Za nas su izgradili industrijsku halu i prevaziši su sva naša očekivanja. Projekat je završen prije roka i ispod planiranog budžeta. Definitivno ćemo nastaviti saradnju!',
+      content: 'Izveli su našu industrijsku halu "ključ u ruke" prije planiranog roka. Kvalitet svih izvedenih radova je na visokom nivou. Definitivno ćemo ih angažovati i za buduće projekte!',
       avatar: 'DN',
       rating: 5,
     },
@@ -216,8 +216,8 @@ export const testimonials = {
 };
 
 export const ctaBanner = {
-  title: 'Počnimo graditi vaš projekat danas!',
-  subtitle: 'Kontaktirajte nas za besplatnu konsultaciju i detaljnu ponudu',
+  title: 'Tražite pouzdanog izvođača radova?',
+  subtitle: 'Kontaktirajte nas za besplatnu procjenu troškova i ponudu za izvođenje radova',
   buttonText: 'Zatraži besplatnu ponudu',
   buttonLink: '#contact',
 };
@@ -234,7 +234,7 @@ export const contact = {
 export const footer = {
   company: {
     name: 'Constructor point d.o.o.',
-    description: 'Profesionalna organizacija i izvođenje građevinskih projekata.',
+    description: 'Izvođač svih vrsta građevinskih radova - od temelja do krova.',
     logo: 'CP',
   },
   quickLinks: [
@@ -245,10 +245,10 @@ export const footer = {
     { name: 'Kontakt', href: '#contact' },
   ],
   services: [
-    { name: 'Projektno planiranje', href: '#services' },
-    { name: 'Nadzor građenja', href: '#services' },
-    { name: 'Upravljanje projektima', href: '#services' },
-    { name: 'Tehnička dokumentacija', href: '#services' },
+    { name: 'Grubi građevinski radovi', href: '#services' },
+    { name: 'Završni radovi', href: '#services' },
+    { name: 'Ključ u ruke', href: '#services' },
+    { name: 'Rekonstrukcije', href: '#services' },
   ],
   social: [
     { name: 'Facebook', href: '#', icon: 'FaFacebook' },
