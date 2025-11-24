@@ -3,7 +3,7 @@ export const siteMetadata = {
   description: 'Izvođač građevinskih radova za stambene, komercijalne i industrijske objekte. Kompletan spektar usluga od temelja do krova sa profesionalnim nadzorom.',
   keywords: 'građevina, izvođenje radova, izvođač, građevinski radovi, organizacija građenja, nadzor projekata, građevinski projekti',
   url: 'https://constructorpoint.ba',
-  image: '/og-image.jpg',
+  image: '/logo.png',
 };
 
 // Navigation for landing page (with anchors)
